@@ -1,6 +1,6 @@
 # A Roadmap for developing mobile apps using Flutter
-
-This roadmap was created for the Flutter committee in IEEE Mansoura Computer Society Chapter by Omar Nabil Elmesiry, head of the committee.
+![Flutter Dash Character: we are very excited to have you on board!](assets\images\dash-flutter.jpg "Flutter Dash Character")
+>This roadmap was created for the Flutter committee in IEEE Mansoura Computer Society Chapter by Omar Nabil Elmesiry, head of the committee. I hope you get the most benefit from it. Also, I would like to thank [Code2Start](https://www.youtube.com/@Code2Start) channel very much for the amazing content provided that I built most of the roadmap on. Don't waste any time, let's get started!
 
 ## Objectives:
 
@@ -14,14 +14,18 @@ The main goal for this committee is to prepare committee members for being able 
 - Building projects portfolio from different projects starting from the advanced level, some of the projects will be as individuals and others will be in teams.
 #
 ## Levels:
+
 * Beginner: Dart
 * Intermediate: Flutter
 * Advanced: Practical Experience in Flutter
 * Advanced Software Development
+
 #
 ## Beginner: Dart
+![Dart by Google](assets\images\dart-logo.jpg "Dart Programming Language Logo")
 
 ### Objectives:
+
 - Learning concepts related to basics of programming, such as: compiler, IDE, packages, libraries.
 - Having a good background about Flutter and Dart.
 - Learning Dart Programming language basics, common data structures, OOP, exception, and Futures.
@@ -29,18 +33,22 @@ The main goal for this committee is to prepare committee members for being able 
 - Learning about widgets, state, stateful & stateless widgets, and some common widgets.
 
 ### Weeks:
-* Week 01: What is Flutter? 
-* Week 02: Dart Basics, Exceptions, & Null Safety
-* Week 03: Basics Review & More Tasks
-* Week 04: Object Oriented Programming with Dart
-* Week 05: Flutter Basics, Images, & Layout Widgets
-* Week 06: Buttons, AppBar, & Themes
+
+* [Week 01: What is Flutter?](assets\weeks\beginner\week01.md)
+* [Week 02: Dart Basics, Exceptions, & Null Safety](assets\weeks\beginner\week02.md)
+* [Week 03: Basics Review & More Tasks](assets\weeks\beginner\week03.md)
+* [Week 04: Object Oriented Programming with Dart](assets\weeks\beginner\week04.md)
+* [Week 05: Flutter Basics, Images, & Layout Widgets](assets\weeks\beginner\week05.md)
+* [Week 06: Buttons, AppBar, & Themes](assets\weeks\beginner\week06.md)
 
 ### Final Projects: Beginner Level
+
 #
 ## Intermediate: Flutter
+![Flutter by Google](assets\images\flutter-logo.png "Flutter Framework Logo")
 
 ### Objectives:
+
 - Learning more advanced Flutter widgets, such as GridView and ListView.
 - Gaining very good practical experience with UI coding in Flutter.
 - Learning about pub.dev, how to add and use packages.
@@ -50,26 +58,31 @@ The main goal for this committee is to prepare committee members for being able 
 - Learning about common ways to create Animations in Flutter.
 
 ### Weeks:
-* Week 07: Git & GitHub 
-* Week 08: ListView, GridView, & Dialogs
-* Week 09: Navigation & Forms
-* Practical Break 01 
-* Practical Break 02 
-* Week 10: SQLite W01
-* Week 11: SQLite W02
-* Week 12: Async Dart & API (using http package)
+
+* [Week 07: Git & GitHub](assets\weeks\intermediate\week07.md)
+* [Week 08: ListView, GridView, & Dialogs](assets\weeks\intermediate\week08.md)
+* [Week 09: Navigation & Forms](assets\weeks\intermediate\week09.md)
+* [Practical Break 01](assets\weeks\intermediate\practical-break01.md)
+* [Practical Break 02](assets\weeks\intermediate\practical-break02.md)
+* [Week 10: SQLite W01](assets\weeks\intermediate\week10.md)
+* [Week 11: SQLite W02](assets\weeks\intermediate\week11.md)
+* [Week 12: Async Dart & API (using http package)](assets\weeks\intermediate\week12.md)
 
 ### Final Projects: Intermediate Level
+
 #
 ## Advanced: Practical Experience in Flutter
+![Flutter by Google](assets\images\flutter-advanced.png "Flutter Framework Logo")
 
 ### Objectives:
+
 - Advancing in UI coding & using APIs in applications.
 - Learning about Firebase services and how to use Firebase Authentication, Firebase Storage, Firebase Firestore.
 - Learning how to achieve State Management in your application using provider package.
 - Learning about Clean Code and SOLID Principles.
 
 ### Weeks:
+
 * Week 13: Animations
 * Week 14: Practical Break: Demo Project
 * Week 15: State Management with Provider
@@ -80,6 +93,7 @@ The main goal for this committee is to prepare committee members for being able 
 * Week 21: Practical Break: Firebase
 
 ### Final Projects: Advanced Level
+
 #
 ## Advanced: Practical Experience in Flutter
 

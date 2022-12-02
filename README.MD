@@ -20,7 +20,7 @@ The main goal for this committee is to prepare committee members for being able 
 * Advanced Software Development
 #
 ## Beginner: Dart
-#
+
 ### Objectives:
 - Learning concepts related to basics of programming, such as: compiler, IDE, packages, libraries.
 - Having a good background about Flutter and Dart.
@@ -39,7 +39,7 @@ The main goal for this committee is to prepare committee members for being able 
 ### Final Projects: Beginner Level
 #
 ## Intermediate: Flutter
-#
+
 ### Objectives:
 - Learning more advanced Flutter widgets, such as GridView and ListView.
 - Gaining very good practical experience with UI coding in Flutter.
@@ -62,7 +62,7 @@ The main goal for this committee is to prepare committee members for being able 
 ### Final Projects: Intermediate Level
 #
 ## Advanced: Practical Experience in Flutter
-#
+
 ### Objectives:
 - Advancing in UI coding & using APIs in applications.
 - Learning about Firebase services and how to use Firebase Authentication, Firebase Storage, Firebase Firestore.
@@ -82,5 +82,5 @@ The main goal for this committee is to prepare committee members for being able 
 ### Final Projects: Advanced Level
 #
 ## Advanced: Practical Experience in Flutter
-#
+
     To be added soon...

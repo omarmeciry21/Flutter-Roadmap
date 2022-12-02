@@ -22,7 +22,7 @@ The main goal for this committee is to prepare committee members for being able 
 
 #
 ## Beginner: Dart
-![Dart by Google](assets/images/dart-logo.jpg  =250 "Dart Programming Language Logo")
+<img src="assets/images/dart-logo.jpg" alt="Dart Programming Language Logo" style="width:200px;"/>
 
 ### Objectives:
 

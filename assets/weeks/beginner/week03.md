@@ -7,9 +7,9 @@
     [https://www.geeksforgeeks.org/dart-tutorial/](https://www.geeksforgeeks.org/dart-tutorial/)
     
 
-![Week 3 - 1](../images/week03-content-1.png)
+![Week 3 - 1](../../images/week03-content-1.png)
 
-![Week 3 - 2](../images/week03-content-2.png)
+![Week 3 - 2](../../images/week03-content-2.png)
 
 
 ## Tasks:

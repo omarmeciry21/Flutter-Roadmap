@@ -39,7 +39,7 @@ The main goal for this committee is to prepare committee members for being able 
 * [Week 03: Basics Review & More Tasks](assets\weeks\beginner\week03.md)
 * [Week 04: Object Oriented Programming with Dart](assets\weeks\beginner\week04.md)
 * [Week 05: Flutter Basics, Images, & Layout Widgets](assets\weeks\beginner\week05.md)
-* [Week 06: Buttons, AppBar, & Themes](assets\weeks\beginner\week06.md)
+* [Week 06: Buttons, AppBar, & Themes](assets\weeks\week06.md)
 
 ### Final Projects: Beginner Level
 

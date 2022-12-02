@@ -1,6 +1,6 @@
 # A Roadmap for developing mobile apps using Flutter
 
-    This roadmap was created for the Flutter committee in IEEE Mansoura Computer Society Chapter by Omar Nabil Elmesiry, head of the committee.
+This roadmap was created for the Flutter committee in IEEE Mansoura Computer Society Chapter by Omar Nabil Elmesiry, head of the committee.
 
 ## Objectives:
 

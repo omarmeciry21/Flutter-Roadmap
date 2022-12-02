@@ -22,7 +22,7 @@ The main goal for this committee is to prepare committee members for being able 
 
 #
 ## Beginner: Dart
-![Dart by Google](assets\images\dart-logo.jpg "Dart Programming Language Logo")
+![Dart by Google](assets/images/dart-logo.jpg "Dart Programming Language Logo")
 
 ### Objectives:
 
@@ -34,18 +34,18 @@ The main goal for this committee is to prepare committee members for being able 
 
 ### Weeks:
 
-* [Week 01: What is Flutter?](assets\weeks\beginner\week01.md)
-* [Week 02: Dart Basics, Exceptions, & Null Safety](assets\weeks\beginner\week02.md)
-* [Week 03: Basics Review & More Tasks](assets\weeks\beginner\week03.md)
-* [Week 04: Object Oriented Programming with Dart](assets\weeks\beginner\week04.md)
-* [Week 05: Flutter Basics, Images, & Layout Widgets](assets\weeks\beginner\week05.md)
-* [Week 06: Buttons, AppBar, & Themes](assets\weeks\week06.md)
+* [Week 01: What is Flutter?](assets/weeks/beginner/week01.md)
+* [Week 02: Dart Basics, Exceptions, & Null Safety](assets/weeks/beginner/week02.md)
+* [Week 03: Basics Review & More Tasks](assets/weeks/beginner/week03.md)
+* [Week 04: Object Oriented Programming with Dart](assets/weeks/beginner/week04.md)
+* [Week 05: Flutter Basics, Images, & Layout Widgets](assets/weeks/beginner/week05.md)
+* [Week 06: Buttons, AppBar, & Themes](assets/weeks/week06.md)
 
 ### Final Projects: Beginner Level
 
 #
 ## Intermediate: Flutter
-![Flutter by Google](assets\images\flutter-logo.png "Flutter Framework Logo")
+![Flutter by Google](assets/images/flutter-logo.png "Flutter Framework Logo")
 
 ### Objectives:
 
@@ -59,20 +59,20 @@ The main goal for this committee is to prepare committee members for being able 
 
 ### Weeks:
 
-* [Week 07: Git & GitHub](assets\weeks\intermediate\week07.md)
-* [Week 08: ListView, GridView, & Dialogs](assets\weeks\intermediate\week08.md)
-* [Week 09: Navigation & Forms](assets\weeks\intermediate\week09.md)
-* [Practical Break 01](assets\weeks\intermediate\practical-break01.md)
-* [Practical Break 02](assets\weeks\intermediate\practical-break02.md)
-* [Week 10: SQLite W01](assets\weeks\intermediate\week10.md)
-* [Week 11: SQLite W02](assets\weeks\intermediate\week11.md)
-* [Week 12: Async Dart & API (using http package)](assets\weeks\intermediate\week12.md)
+* [Week 07: Git & GitHub](assets/weeks/intermediate/week07.md)
+* [Week 08: ListView, GridView, & Dialogs](assets/weeks/intermediate/week08.md)
+* [Week 09: Navigation & Forms](assets/weeks/intermediate/week09.md)
+* [Practical Break 01](assets/weeks/intermediate/practical-break01.md)
+* [Practical Break 02](assets/weeks/intermediate/practical-break02.md)
+* [Week 10: SQLite W01](assets/weeks/intermediate/week10.md)
+* [Week 11: SQLite W02](assets/weeks/intermediate/week11.md)
+* [Week 12: Async Dart & API (using http package)](assets/weeks/intermediate/week12.md)
 
 ### Final Projects: Intermediate Level
 
 #
 ## Advanced: Practical Experience in Flutter
-![Flutter by Google](assets\images\flutter-advanced.png "Flutter Framework Logo")
+![Flutter by Google](assets/images/flutter-advanced.png "Flutter Framework Logo")
 
 ### Objectives:
 

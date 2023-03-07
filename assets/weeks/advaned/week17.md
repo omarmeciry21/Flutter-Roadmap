@@ -11,3 +11,5 @@
 - [https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX](https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
 
 ## Tasks:
+
+> Practice in Previous Projects.

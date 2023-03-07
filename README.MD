@@ -22,6 +22,7 @@ The main goal for this committee is to prepare committee members for being able 
 
 #
 ## Beginner: Dart
+#
 ![Dart by Google](assets/images/dart-logo.jpg "Dart Programming Language Logo")
 
 ### Objectives:
@@ -41,10 +42,11 @@ The main goal for this committee is to prepare committee members for being able 
 * [Week 05: Flutter Basics, Images, & Layout Widgets](assets/weeks/beginner/week05.md)
 * [Week 06: Buttons, AppBar, & Themes](assets/weeks/week06.md)
 
-### Final Projects: Beginner Level
+### > [Final Project: Beginner Level](assets/weeks/beginner/beginner-project.md)
 
 #
 ## Intermediate: Flutter
+#
 ![Flutter by Google](assets/images/flutter-logo.png "Flutter Framework Logo")
 
 ### Objectives:
@@ -68,10 +70,13 @@ The main goal for this committee is to prepare committee members for being able 
 * [Week 11: SQLite W02](assets/weeks/intermediate/week11.md)
 * [Week 12: Async Dart & API (using http package)](assets/weeks/intermediate/week12.md)
 
-### Final Projects: Intermediate Level
-
+### Final Project: Intermediate Level
+> [First Project (Individuals)](./assets/weeks/intermediate/Intermediate%20Projects%20-%20First%20Project%20(Individuals).md)
+##
+> [Second Project (Groups)](./assets/weeks/intermediate/Intermediate%20Projects%20-%20Second%20Project%20(Groups).md)
 #
 ## Advanced: Practical Experience in Flutter
+#
 ![Flutter by Google](assets/images/flutter-advanced.png "Flutter Framework Logo")
 
 ### Objectives:
@@ -84,17 +89,19 @@ The main goal for this committee is to prepare committee members for being able 
 ### Weeks:
 
 * [Week 13: Animations](assets/weeks/advaned/week13.md)
-* [Week 14: Practical Break: Demo Project](assets/weeks/advaned/week14.md)
-* [Week 15: State Management with Provider](assets/weeks/advaned/week15.md)
-* [Week 16: Practical Break: State Management With Provider Project](assets/weeks/advaned/week16.md)
+* [Week 14-15: Practical Break: Demo Project](assets/weeks/advaned/week14-15.md)
+* [Week 16: State Management with Provider](assets/weeks/advaned/week16.md)
 * [Week 17: Clean Architecture Introduction & Clean Code (W01)](assets/weeks/advaned/week17.md)
 * [Week 18: Clean Code (W02) & SOLID Principles](assets/weeks/advaned/week18.md)
-* [Week 19: Firebase](assets/weeks/advaned/week19.md)
-* [Week 20: Practical Break: Firebase](assets/weeks/advaned/week20.md)
+* [Week 19: Practical Break: Movies App.](assets/weeks/advaned/week19.md)
+* [Week 20: Firebase](assets/weeks/advaned/week20.md)
+* [Week 21: Practical Break: Firebase](assets/weeks/advaned/week21.md)
 
 ### Final Projects: Advanced Level
+> To be added soon, or in the coming versions from the roadmap. If you are on GitHub, please check the repository forks for the newer versions.
 
 #
-## Advanced: Practical Experience in Flutter
+## Advanced Software Development
 
-    To be added soon...
+#
+> To be added soon, or in the coming versions from the roadmap. If you are on GitHub, please check the repository forks for the newer versions.

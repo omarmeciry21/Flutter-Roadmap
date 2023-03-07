@@ -2,7 +2,7 @@
 
 ## Content:
 
-**Clean Code: (#04 → #07)**
+**Clean Code: (#04 → #08)**
 
 - [https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX](https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
 
@@ -11,3 +11,5 @@
 - [https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV](https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
 
 ## Tasks:
+
+> Presentation For explains All Topics in the content you understand.
